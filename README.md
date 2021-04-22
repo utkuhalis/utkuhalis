@@ -7,8 +7,8 @@
 <!-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about php, c, c++, c#, vb.net, sql, vue, javascript.
 ## 📫 How to reach me
-> https://utkuhalis.com
-> utku@kodla.io
-> info@utkuhalis.com
+> [x] https://utkuhalis.com
+> [x] utku@kodla.io
+> [x] info@utkuhalis.com
 
 
