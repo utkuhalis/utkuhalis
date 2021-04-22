@@ -4,8 +4,17 @@
 - 🔭 I am currently working with kodla.io
 - 🌱 I’m currently learning TypeScript
 - 👯 I want to collaborate to develop kodla.io.
-<!-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about php, c, c++, c#, vb.net, sql, vue, javascript.
+
+## 💬 Ask me about 
+- [x] php 
+- [x] c
+- [x] c++ 
+- [x] c#
+- [x] vb.net
+- [x] sql
+- [x] vue
+- [x] javascript
+
 ## 📫 How to reach me
 - [x] https://utkuhalis.com
 - [x] utku@kodla.io
