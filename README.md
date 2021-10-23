@@ -16,8 +16,7 @@
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://twitter.com/utkuhalis" target="blank"><img align="center" src="https://server.kodla.io/assets/twitter.svg" alt="utkuhalis" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/utkuhalis" target="blank"><img align="center" src="https://server.kodla.io/assets/linkedin.svg" alt="utkuhalis" height="30" width="40" /></a>  
-<a href="https://fb.com/utkuhalis" target="blank"><img align="center" src="https://server.kodla.io/assets/facebook.svg" alt="utkuhalis" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/utkuhalis" target="blank"><img align="center" src="https://server.kodla.io/assets/linkedin.svg" alt="utkuhalis" height="30" width="40" /></a> 
 <a href="https://instagram.com/utkuhalis" target="blank"><img align="center" src="https://server.kodla.io/assets/instagram.svg" alt="utkuhalis" height="30" width="40" /></a>  
 <a href="https://discord.gg/Ed2rs44xmg" target="blank"><img align="center" src="https://server.kodla.io/assets/discord.svg" alt="Ed2rs44xmg" height="30" width="40" /></a>  
 </p>  
