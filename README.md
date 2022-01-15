@@ -4,10 +4,6 @@
 </em></p>
 
 <h3 align="center">Hello, I'm Utku Halis. I have been developing software for 10 years. I established the kodla.io brand and now we are developing software with my team.</h3>  
-    
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkuhalis" alt="utkuhalis" /></a> </p>  
-  
-
   
 - 🔭 I’m currently working with **kodla.io**  
   
