@@ -7,15 +7,4 @@
   
 - 🔭 I’m currently working with **kodla.io**  
   
-- 🌱 I’m currently learning **Flutter**  
-  
-- 👯 I’m looking to collaborate to **develop kodla.io.**  
-  
 - 📫 How to reach me **personal@utkuhalis.com**  
-  
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkuhalis&show_icons=true&locale=en&layout=compact" alt="utkuhalis" /></p>  
-  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=utkuhalis&show_icons=true&locale=en" alt="utkuhalis" /></p>  
-  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkuhalis&" alt="utkuhalis" /></p>
