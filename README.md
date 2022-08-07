@@ -7,4 +7,4 @@
   
 - 🔭 I’m currently working with **kodla.io**  
   
-- 📫 How to reach me **personal@utkuhalis.com**  
+- 📫 How to reach me **personal@utkuhalis.com.tr**  
