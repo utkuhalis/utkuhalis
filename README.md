@@ -9,19 +9,20 @@
 
 <p align="center">
   <a href="mailto:hi@kodla.agency"><img src="https://img.shields.io/badge/hi%40kodla.agency-0d0b1f?style=for-the-badge&logo=maildotru&logoColor=8b8fd9"/></a>
+  <a href="https://kodla.agency"><img src="https://img.shields.io/badge/kodla.agency-0d0b1f?style=for-the-badge&logo=rocket&logoColor=8b8fd9"/></a>
   <a href="https://utkuhalis.com.tr"><img src="https://img.shields.io/badge/utkuhalis.com.tr-0d0b1f?style=for-the-badge&logo=googlechrome&logoColor=8b8fd9"/></a>
   <a href="https://www.linkedin.com/in/utkuhalis/"><img src="https://img.shields.io/badge/LinkedIn-0d0b1f?style=for-the-badge&logo=linkedin&logoColor=8b8fd9"/></a>
 </p>
 
 ---
 
-### 👨‍💻 About me
+### About me
 
 ```yaml
 name:        Utku Halis
 role:        Founder @ Kodla Digital Agency
 experience:  16+ years
-journey:     VB6 → PHP → Laravel → Flutter → Odoo → C / bare metal
+journey:     VB6 → PHP → CodeIgniter 3/4 → Laravel → React Native → Flutter → Odoo
 location:    Northern Cyprus 🇨🇾
 day_job:     web, mobile, ERP
 night_job:   kernels, console homebrew, audio synthesis
@@ -35,7 +36,7 @@ night_job:   kernels, console homebrew, audio synthesis
 
 ---
 
-### 🌟 Featured projects
+### Featured projects
 
 | Project | What it is | |
 |---|---|---|
@@ -46,7 +47,7 @@ night_job:   kernels, console homebrew, audio synthesis
 
 ---
 
-### 🧰 Tech stack
+### Tech stack
 
 **Web & backend**
 <p>
@@ -75,7 +76,7 @@ night_job:   kernels, console homebrew, audio synthesis
 
 ---
 
-### 📊 GitHub stats
+### GitHub stats
 
 <p align="center">
   <img src="./metrics.svg" />
