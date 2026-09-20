@@ -43,7 +43,6 @@ night_job:   kernels, console homebrew, audio synthesis
 | [**ARM Hobby OS**](https://github.com/utkuhalis/ARM-Hobby-Operating-System) | Minimal AArch64 kernel running on QEMU `virt` and Raspberry Pi 5 | ![](https://img.shields.io/github/stars/utkuhalis/ARM-Hobby-Operating-System?style=flat-square&color=5b5fa8&labelColor=0d0b1f) |
 | [**ps3-homebrew**](https://github.com/utkuhalis/ps3-homebrew) | Flight simulator for PS3 written straight against the RSX with PSL1GHT. Own renderer, flight model, audio synth and asset pipeline, no engine | ![](https://img.shields.io/github/stars/utkuhalis/ps3-homebrew?style=flat-square&color=5b5fa8&labelColor=0d0b1f) |
 | [**rs7-v8-simulator**](https://github.com/utkuhalis/rs7-v8-simulator) | Real-time procedural Audi RS7 V8 engine & exhaust sound synthesizer | ![](https://img.shields.io/github/stars/utkuhalis/rs7-v8-simulator?style=flat-square&color=5b5fa8&labelColor=0d0b1f) |
-| [**etone-kasafix**](https://packagist.org/packages/utkuhalis/etone-kasafix) | PHP package on Packagist | ![](https://img.shields.io/packagist/dt/utkuhalis/etone-kasafix?style=flat-square&color=5b5fa8&labelColor=0d0b1f&label=downloads) |
 
 ---
 
